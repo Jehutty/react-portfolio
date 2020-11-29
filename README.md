@@ -5,6 +5,8 @@ It will consist of the following:
 - Calculator
 - Expenses tracker
 - Mini games to play.
+- Cheatsheat section for all libraries known/best practices
+- DSA Visualizer
 
 <!-- Showcase of responsive design and styling made with Chakra UI.
 Animations with framer-motion and react-spring

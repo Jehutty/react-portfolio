@@ -5,7 +5,7 @@ import reactlogo from '../logo.svg';
 export const MainComponent = () => {
   return (
     <>
-      <Box w={'100vh'}>
+      <Box h={'100vh'} bg={'blue.800'}>
         <Heading>
           Welcome to my React
           <Img display={'inline'} src={reactlogo} className="App-logo"></Img>
